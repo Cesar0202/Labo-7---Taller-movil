@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Flutter build artifacts
+app_tumor_cerebral/build/
+app_tumor_cerebral/.dart_tool/
+app_tumor_cerebral/.flutter-plugins
+app_tumor_cerebral/.flutter-plugins-dependencies
+app_tumor_cerebral/.packages
+app_tumor_cerebral/windows/flutter/ephemeral/
+
+# IDE
+.idea/
+.vscode/
+*.swp
